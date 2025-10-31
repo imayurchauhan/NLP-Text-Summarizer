@@ -1,0 +1,7 @@
+streamlit
+sumy
+langdetect
+PyPDF2
+transformers
+torch
+sentencepiece
